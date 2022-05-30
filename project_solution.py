@@ -37,4 +37,4 @@ def post_to_web_service():
         
 process_txt_files()
 generate_dictionaries()
-# post_to_web_service()
+post_to_web_service()
